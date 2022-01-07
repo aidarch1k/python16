@@ -11,3 +11,4 @@ sasdada
 git clone - cloun
 git config --global user.name 'aidar'
 git config --global user.email aidarmyrza@gmail.com
+git push origin master sending all local commits to removed repoztitor

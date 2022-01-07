@@ -1,0 +1,12 @@
+ssh-keygen for generation ssh key
+.ssh secret lirectory ssh settings
+GIT control of system versions
+id_rsa.pub save open key
+git inti inizalitaion
+.git create secret folder
+git add <file_name><.> -for check status
+git commit -m 'comments' fix file and create hash sum
+git remote add origin git@github.com:aidarch1k/python16.git
+
+git clone - cloun
+

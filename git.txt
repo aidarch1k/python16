@@ -7,6 +7,6 @@ git inti inizalitaion
 git add <file_name><.> -for check status
 git commit -m 'comments' fix file and create hash sum
 git remote add origin git@github.com:aidarch1k/python16.git
-
+sasdada
 git clone - cloun
 

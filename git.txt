@@ -9,4 +9,5 @@ git commit -m 'comments' fix file and create hash sum
 git remote add origin git@github.com:aidarch1k/python16.git
 sasdada
 git clone - cloun
-
+git config --global user.name 'aidar'
+git config --global user.email aidarmyrza@gmail.com
